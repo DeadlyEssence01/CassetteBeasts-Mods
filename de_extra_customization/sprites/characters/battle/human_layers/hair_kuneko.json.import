@@ -1,0 +1,29 @@
+[remap]
+
+importer="eska.aseprite_importer"
+type="PackedScene"
+path="res://.import/hair_kuneko.json-cad57a07891e093994be5ea0f5a7c0db.scn"
+
+[deps]
+
+source_file="res://mods/de_extra_customization/sprites/characters/battle/human_layers/hair_kuneko.json"
+dest_files=[ "res://.import/hair_kuneko.json-cad57a07891e093994be5ea0f5a7c0db.scn" ]
+
+[params]
+
+sheet_image=""
+post_script=""
+root_node_name="Sprite"
+autoplay_animation=""
+loop=true
+as_3d=false
+custom_material=""
+billboard=1
+pixel_size=0.125
+origin_x=0.0
+origin_y=0.0
+offset=Vector2( 0, 0 )
+cast_shadow=true
+unshaded=false
+use_alpha_scissor=true
+cull_mode=0
