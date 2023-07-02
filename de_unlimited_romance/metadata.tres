@@ -6,8 +6,8 @@
 script = ExtResource( 1 )
 id = "de_unlimited_romance"
 name = "Unlimited Romance"
-version_code = 2
-version_string = "1.1"
+version_code = 5
+version_string = "1.4"
 author = "DeadlyEssence01"
 save_file_format_tag = ""
 save_file_format_tag_version = 0
